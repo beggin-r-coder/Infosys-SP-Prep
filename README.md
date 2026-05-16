@@ -9,7 +9,7 @@
 <br/>
 
 <!-- PROFILE VIEWS + STARS -->
-<img src="https://komarev.com/ghpvc/?username=beggin-r-coder=infosys-sp-prep&label=REPO%20VIEWS&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=beggin-r-coder&label=REPO%20VIEWS&color=0e75b6&style=for-the-badge" alt="views"/>
 &nbsp;
 <img src="https://img.shields.io/github/stars/beggin-r-coder/infosys-sp-prep?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29&label=STARS" />
 &nbsp;
