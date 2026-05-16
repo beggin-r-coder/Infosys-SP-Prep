@@ -5,7 +5,10 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=⚡+Crack+the+Infosys+SP+Exam;💻+Data+Structures+%26+Algorithms+Mastery;🧠+Problem+Solving+at+Scale;🚀+From+0+to+Specialist+Programmer;🎯+Every+Line+of+Code+Counts" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Crack+the+Infosys+SP+Exam;💻+Master+Data+Structures+%26+Algorithms;🧠+Problem+Solving+at+Scale;🚀+From+0+to+Specialist+Programmer;🎯+Every+Line+of+Code+Counts" 
+    alt="Typing SVG" 
+  />
 </a>
 
 <br/>
