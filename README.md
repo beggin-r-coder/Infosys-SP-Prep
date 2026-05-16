@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=INFOSYS%20SP%20PREP&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Specialist%20Programmer%20%7C%20Coding%20Exam%20Arsenal&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Infosys+SP+Preparation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&vCenter=true&width=435&lines=Infosys+SP+Preparation" alt="Typing SVG" /></a>
 
 <br/>
 
